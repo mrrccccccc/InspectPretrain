@@ -1,2 +1,3 @@
 # InspectPretrain
-Placeholder repository for InspectPretrain; code will be released after TPAMI acceptance.
+
+Code for InspectPretrain will be released after the paper is accepted by TPAMI.
